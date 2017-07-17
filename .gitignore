@@ -41,3 +41,4 @@ Thumbs.db
 /**/*.iml
 /**/target/
 /**/*.unit04result
+/gradle/wrapper
